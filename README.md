@@ -1,2 +1,2 @@
-# Nural_Network
+# Neural_Network
 Learn nural network
